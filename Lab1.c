@@ -8,5 +8,5 @@
 
 void lab1(void)
 {
-
+    /* Noting to do */
 }
